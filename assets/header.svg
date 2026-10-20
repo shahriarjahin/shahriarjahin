@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Shahriar Morshed Jahin</title><desc id="desc">Research, data and practical software. DigitXBD.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1727"/><stop offset="1" stop-color="#182b39"/></linearGradient><linearGradient id="accent"><stop stop-color="#68d9bd"/><stop offset="1" stop-color="#e7b85b"/></linearGradient></defs>
+<rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+<g fill="none" stroke="#69cbb5" opacity=".13"><circle cx="1085" cy="90" r="160"/><circle cx="1085" cy="90" r="115"/><circle cx="1085" cy="90" r="70"/><path d="M880 300L1200 0M950 300L1200 50"/></g>
+<rect x="54" y="55" width="54" height="4" rx="2" fill="url(#accent)"/>
+<text x="54" y="103" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="3" fill="#8cdac8">RESEARCH · DATA · SOFTWARE</text>
+<text x="50" y="166" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700" letter-spacing="-1" fill="#f6f8fa">Shahriar Morshed Jahin</text>
+<text x="54" y="210" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#b2c5d0">Exploring questions. Building useful tools.</text>
+<text x="54" y="261" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#76d7bf">@shahriarjahin</text>
+<text x="1088" y="260" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="2" fill="#e7b85b">DigitXBD</text>
+</svg>
